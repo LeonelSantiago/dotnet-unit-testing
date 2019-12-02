@@ -5,13 +5,13 @@ using Xunit;
 
 namespace PrimeService.Tests
 {
-    public class PrimeService_IsPrimeShould
+    public class MathOperationsService_IsPrimeShould
     {
-        private readonly PrimeService _primeService;
+        private readonly MathOperationsService _primeService;
 
-        public PrimeService_IsPrimeShould()
+        public MathOperationsService_IsPrimeShould()
         {
-            _primeService = new PrimeService();
+            _primeService = new MathOperationsService();
         }
 
         [Fact]

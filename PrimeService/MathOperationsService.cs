@@ -2,7 +2,7 @@
 
 namespace PrimeService
 {
-    public class PrimeService
+    public class MathOperationsService
     {
         public bool IsPrime(int candidate)
         {
