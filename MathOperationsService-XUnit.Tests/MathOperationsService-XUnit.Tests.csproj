@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PrimeService\MathOperationsService.csproj" />
+    <ProjectReference Include="..\MathOperationsService-XUnit\MathOperationsService.csproj" />
   </ItemGroup>
 
 </Project>
